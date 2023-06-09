@@ -1,0 +1,57 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  /* Hero Section */
+  
+  #Header-Section {
+    font-weight: 700;
+    background-image: url("../img/imgperfil.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+  
+  /* Educación */
+  
+  #educacion {
+    height: 250px;
+    font-weight: 700;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* Experiencia */
+
+  #experiencia {
+    height: 250px;
+    font-weight: 700;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Contacto */
+  
+  #Contacto form label {
+    font-weight: 700;
+    color: #373a3c;
+  }
+  
+  @media (max-width: 768px) {
+    #Contacto form label {
+      font-weight: 400;
+    }
+  
+    .navbar-brand{
+      width: 100px;
+    }
+  
+  }
+ 
+  
+  .notime {
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+  }
