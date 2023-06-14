@@ -2,7 +2,7 @@ body {
     font-family: "Raleway", sans-serif;
   }
   
-  /* Hero Section */
+  /* Header Section */
   
   #Header-Section {
     font-weight: 700;
@@ -15,21 +15,13 @@ body {
   /* Educación */
   
   #educacion {
-    height: 250px;
     font-weight: 700;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
   }
 
   /* Experiencia */
 
   #experiencia {
-    height: 250px;
     font-weight: 700;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
   }
   
   /* Contacto */
@@ -49,7 +41,6 @@ body {
     }
   
   }
- 
   
   .notime {
     font-size: 20px;
