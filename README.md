@@ -2,7 +2,7 @@
 
 ## Este es el link a mi CV en Github
 
-- (https://nicolascr726.github.io/cvnicolascr726/)
+- (https://nicolascr726.github.io)
 
 ## Repositorios forkeados y sus respectivos links
 
